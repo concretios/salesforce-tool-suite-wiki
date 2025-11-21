@@ -221,7 +221,6 @@ The Software, including but not limited to its source code, object code, algorit
 ### 6.3 Third-Party Components
 The Software incorporates various open-source and third-party components, including but not limited to:
 - Angular Framework (MIT License)
-- Kendo UI for Angular (Commercial License)
 - Bootstrap (MIT License)
 - Various npm packages
 
