@@ -1,7 +1,7 @@
 # End User License Agreement (EULA)
 
 **Developer:** concret.io  
-**Last Updated:** November 20, 2025
+**Last Updated:** November 21, 2025
 
 ---
 
@@ -541,9 +541,9 @@ For bug reports, feature requests, and general support, please use the feedback 
 
 **Software Name**: Salesforce Tool Suite  
 **Version**: 2.10.9  
-**EULA Version**: 1.1  
-**Effective Date**: November 20, 2025  
-**Last Updated**: November 20, 2025
+**EULA Version**: 1.2  
+**Effective Date**: November 21, 2025  
+**Last Updated**: November 21, 2025
 
 ---
 
