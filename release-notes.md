@@ -1,13 +1,19 @@
 #Release Notes
 
-- Version: v3.2.0
+- Version: v4.0.0
+  - Feature: Added tab-based navigation to the Global Search menu for faster switching between result types.
+  - Update: Enhanced the UI/UX for the Tools and Reports modules (layout and styling improvements).
+  - Update: Enhanced org authentication: Users can now login or refresh inactive org sessions directly within any component without navigating to the Settings page.
+  - Bug Fix: Fixed blurred and frozen UI issue during login authentication in the Tools and Reports modules.
+  
+  - Version: v3.2.0
   - Bug Fix: Fixed hard-coded encryption key/IV vulnerability.
   - Update: Enhanced security by replacing the hard-coded encryption key with a random per-installation master key.
   - Bug Fix: Fixed XSS vulnerability in object report export.
   - Bug Fix: Fixed storage async calls.
   - Update: Enhanced the security for external URLs.
   - Update: Enhanced the UI/UX.
-  - 
+
 - Version: v3.1.2
   - Bug Fix: Fixed issue with Profile Creation & Modified Details and Visualforce Page Details while exporting metadata.
   - Bug Fix: Fixed a refresh issue that occurred when navigating between routes.
