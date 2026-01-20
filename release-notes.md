@@ -6,7 +6,7 @@
   - Update: Enhanced org authentication: Users can now login or refresh inactive org sessions directly within any component without navigating to the Settings page.
   - Bug Fix: Fixed blurred and frozen UI issue during login authentication in the Tools and Reports modules.
   
-  - Version: v3.2.0
+- Version: v3.2.0
   - Bug Fix: Fixed hard-coded encryption key/IV vulnerability.
   - Update: Enhanced security by replacing the hard-coded encryption key with a random per-installation master key.
   - Bug Fix: Fixed XSS vulnerability in object report export.
